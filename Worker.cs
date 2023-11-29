@@ -1,25 +1,24 @@
-﻿using System;
-
-namespace Shop
+﻿namespace ManagingANewspaper
 {
     public class Worker
     {
-        static int num = 0;
-        public int Id { get; set; }
         public string Name { get; set; }
-        public string Pon{ get; set; }
+        public string Pon { get; set; }
         public string Adress { get; set; }
         public float Salary { get; set; } = 0;
+        public int Vetek { get; set; }
         public Worker()
         {
-            Id = num++;
+            
         }
-        public Worker(string name, string pon, string ad)
+        public Worker(string name, string pon, string ad, float salary,int vetek)
         {
-            Id = num++;
+           
             Name = name;
             Pon = pon;
             Adress = ad;
+            Salary = salary;
+            Vetek=vetek;
         }
     }
 }

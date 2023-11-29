@@ -1,0 +1,97 @@
+C:\Users\ASUS\Desktop\תכנות\דואט נט\ShopProject\bin\Debug\net6.0\appsettings.Development.json
+C:\Users\ASUS\Desktop\תכנות\דואט נט\ShopProject\bin\Debug\net6.0\appsettings.json
+C:\Users\ASUS\Desktop\תכנות\דואט נט\ShopProject\bin\Debug\net6.0\ManagingANewspaper.exe
+C:\Users\ASUS\Desktop\תכנות\דואט נט\ShopProject\bin\Debug\net6.0\ManagingANewspaper.deps.json
+C:\Users\ASUS\Desktop\תכנות\דואט נט\ShopProject\bin\Debug\net6.0\ManagingANewspaper.runtimeconfig.json
+C:\Users\ASUS\Desktop\תכנות\דואט נט\ShopProject\bin\Debug\net6.0\ManagingANewspaper.dll
+C:\Users\ASUS\Desktop\תכנות\דואט נט\ShopProject\bin\Debug\net6.0\ManagingANewspaper.pdb
+C:\Users\ASUS\Desktop\תכנות\דואט נט\ShopProject\bin\Debug\net6.0\Microsoft.OpenApi.dll
+C:\Users\ASUS\Desktop\תכנות\דואט נט\ShopProject\bin\Debug\net6.0\Swashbuckle.AspNetCore.Swagger.dll
+C:\Users\ASUS\Desktop\תכנות\דואט נט\ShopProject\bin\Debug\net6.0\Swashbuckle.AspNetCore.SwaggerGen.dll
+C:\Users\ASUS\Desktop\תכנות\דואט נט\ShopProject\bin\Debug\net6.0\Swashbuckle.AspNetCore.SwaggerUI.dll
+C:\Users\ASUS\Desktop\תכנות\דואט נט\ShopProject\obj\Debug\net6.0\ManagingANewspaper.csproj.AssemblyReference.cache
+C:\Users\ASUS\Desktop\תכנות\דואט נט\ShopProject\obj\Debug\net6.0\ManagingANewspaper.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\ASUS\Desktop\תכנות\דואט נט\ShopProject\obj\Debug\net6.0\ManagingANewspaper.AssemblyInfoInputs.cache
+C:\Users\ASUS\Desktop\תכנות\דואט נט\ShopProject\obj\Debug\net6.0\ManagingANewspaper.AssemblyInfo.cs
+C:\Users\ASUS\Desktop\תכנות\דואט נט\ShopProject\obj\Debug\net6.0\ManagingANewspaper.csproj.CoreCompileInputs.cache
+C:\Users\ASUS\Desktop\תכנות\דואט נט\ShopProject\obj\Debug\net6.0\ManagingANewspaper.MvcApplicationPartsAssemblyInfo.cs
+C:\Users\ASUS\Desktop\תכנות\דואט נט\ShopProject\obj\Debug\net6.0\ManagingANewspaper.MvcApplicationPartsAssemblyInfo.cache
+C:\Users\ASUS\Desktop\תכנות\דואט נט\ShopProject\obj\Debug\net6.0\staticwebassets\msbuild.ManagingANewspaper.Microsoft.AspNetCore.StaticWebAssets.props
+C:\Users\ASUS\Desktop\תכנות\דואט נט\ShopProject\obj\Debug\net6.0\staticwebassets\msbuild.build.ManagingANewspaper.props
+C:\Users\ASUS\Desktop\תכנות\דואט נט\ShopProject\obj\Debug\net6.0\staticwebassets\msbuild.buildMultiTargeting.ManagingANewspaper.props
+C:\Users\ASUS\Desktop\תכנות\דואט נט\ShopProject\obj\Debug\net6.0\staticwebassets\msbuild.buildTransitive.ManagingANewspaper.props
+C:\Users\ASUS\Desktop\תכנות\דואט נט\ShopProject\obj\Debug\net6.0\staticwebassets.pack.json
+C:\Users\ASUS\Desktop\תכנות\דואט נט\ShopProject\obj\Debug\net6.0\staticwebassets.build.json
+C:\Users\ASUS\Desktop\תכנות\דואט נט\ShopProject\obj\Debug\net6.0\staticwebassets.development.json
+C:\Users\ASUS\Desktop\תכנות\דואט נט\ShopProject\obj\Debug\net6.0\scopedcss\bundle\ManagingANewspaper.styles.css
+C:\Users\ASUS\Desktop\תכנות\דואט נט\ShopProject\obj\Debug\net6.0\ManagingANewspaper.csproj.CopyComplete
+C:\Users\ASUS\Desktop\תכנות\דואט נט\ShopProject\obj\Debug\net6.0\ManagingANewspaper.dll
+C:\Users\ASUS\Desktop\תכנות\דואט נט\ShopProject\obj\Debug\net6.0\refint\ManagingANewspaper.dll
+C:\Users\ASUS\Desktop\תכנות\דואט נט\ShopProject\obj\Debug\net6.0\ManagingANewspaper.pdb
+C:\Users\ASUS\Desktop\תכנות\דואט נט\ShopProject\obj\Debug\net6.0\ManagingANewspaper.genruntimeconfig.cache
+C:\Users\ASUS\Desktop\תכנות\דואט נט\ShopProject\obj\Debug\net6.0\ref\ManagingANewspaper.dll
+C:\Users\ASUS\Desktop\תכנות\דואט נט\NewsPaper\bin\Debug\net6.0\appsettings.Development.json
+C:\Users\ASUS\Desktop\תכנות\דואט נט\NewsPaper\bin\Debug\net6.0\appsettings.json
+C:\Users\ASUS\Desktop\תכנות\דואט נט\NewsPaper\bin\Debug\net6.0\ManagingANewspaper.exe
+C:\Users\ASUS\Desktop\תכנות\דואט נט\NewsPaper\bin\Debug\net6.0\ManagingANewspaper.deps.json
+C:\Users\ASUS\Desktop\תכנות\דואט נט\NewsPaper\bin\Debug\net6.0\ManagingANewspaper.runtimeconfig.json
+C:\Users\ASUS\Desktop\תכנות\דואט נט\NewsPaper\bin\Debug\net6.0\ManagingANewspaper.dll
+C:\Users\ASUS\Desktop\תכנות\דואט נט\NewsPaper\bin\Debug\net6.0\ManagingANewspaper.pdb
+C:\Users\ASUS\Desktop\תכנות\דואט נט\NewsPaper\bin\Debug\net6.0\Microsoft.OpenApi.dll
+C:\Users\ASUS\Desktop\תכנות\דואט נט\NewsPaper\bin\Debug\net6.0\Swashbuckle.AspNetCore.Swagger.dll
+C:\Users\ASUS\Desktop\תכנות\דואט נט\NewsPaper\bin\Debug\net6.0\Swashbuckle.AspNetCore.SwaggerGen.dll
+C:\Users\ASUS\Desktop\תכנות\דואט נט\NewsPaper\bin\Debug\net6.0\Swashbuckle.AspNetCore.SwaggerUI.dll
+C:\Users\ASUS\Desktop\תכנות\דואט נט\NewsPaper\obj\Debug\net6.0\ManagingANewspaper.csproj.AssemblyReference.cache
+C:\Users\ASUS\Desktop\תכנות\דואט נט\NewsPaper\obj\Debug\net6.0\ManagingANewspaper.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\ASUS\Desktop\תכנות\דואט נט\NewsPaper\obj\Debug\net6.0\ManagingANewspaper.AssemblyInfoInputs.cache
+C:\Users\ASUS\Desktop\תכנות\דואט נט\NewsPaper\obj\Debug\net6.0\ManagingANewspaper.AssemblyInfo.cs
+C:\Users\ASUS\Desktop\תכנות\דואט נט\NewsPaper\obj\Debug\net6.0\ManagingANewspaper.csproj.CoreCompileInputs.cache
+C:\Users\ASUS\Desktop\תכנות\דואט נט\NewsPaper\obj\Debug\net6.0\ManagingANewspaper.MvcApplicationPartsAssemblyInfo.cs
+C:\Users\ASUS\Desktop\תכנות\דואט נט\NewsPaper\obj\Debug\net6.0\ManagingANewspaper.MvcApplicationPartsAssemblyInfo.cache
+C:\Users\ASUS\Desktop\תכנות\דואט נט\NewsPaper\obj\Debug\net6.0\staticwebassets\msbuild.ManagingANewspaper.Microsoft.AspNetCore.StaticWebAssets.props
+C:\Users\ASUS\Desktop\תכנות\דואט נט\NewsPaper\obj\Debug\net6.0\staticwebassets\msbuild.build.ManagingANewspaper.props
+C:\Users\ASUS\Desktop\תכנות\דואט נט\NewsPaper\obj\Debug\net6.0\staticwebassets\msbuild.buildMultiTargeting.ManagingANewspaper.props
+C:\Users\ASUS\Desktop\תכנות\דואט נט\NewsPaper\obj\Debug\net6.0\staticwebassets\msbuild.buildTransitive.ManagingANewspaper.props
+C:\Users\ASUS\Desktop\תכנות\דואט נט\NewsPaper\obj\Debug\net6.0\staticwebassets.pack.json
+C:\Users\ASUS\Desktop\תכנות\דואט נט\NewsPaper\obj\Debug\net6.0\staticwebassets.build.json
+C:\Users\ASUS\Desktop\תכנות\דואט נט\NewsPaper\obj\Debug\net6.0\staticwebassets.development.json
+C:\Users\ASUS\Desktop\תכנות\דואט נט\NewsPaper\obj\Debug\net6.0\scopedcss\bundle\ManagingANewspaper.styles.css
+C:\Users\ASUS\Desktop\תכנות\דואט נט\NewsPaper\obj\Debug\net6.0\ManagingANewspaper.csproj.CopyComplete
+C:\Users\ASUS\Desktop\תכנות\דואט נט\NewsPaper\obj\Debug\net6.0\ManagingANewspaper.dll
+C:\Users\ASUS\Desktop\תכנות\דואט נט\NewsPaper\obj\Debug\net6.0\refint\ManagingANewspaper.dll
+C:\Users\ASUS\Desktop\תכנות\דואט נט\NewsPaper\obj\Debug\net6.0\ManagingANewspaper.pdb
+C:\Users\ASUS\Desktop\תכנות\דואט נט\NewsPaper\obj\Debug\net6.0\ManagingANewspaper.genruntimeconfig.cache
+C:\Users\ASUS\Desktop\תכנות\דואט נט\NewsPaper\obj\Debug\net6.0\ref\ManagingANewspaper.dll
+C:\Users\ASUS\Desktop\NewsPaper\bin\Debug\net6.0\appsettings.Development.json
+C:\Users\ASUS\Desktop\NewsPaper\bin\Debug\net6.0\appsettings.json
+C:\Users\ASUS\Desktop\NewsPaper\bin\Debug\net6.0\ManagingANewspaper.exe
+C:\Users\ASUS\Desktop\NewsPaper\bin\Debug\net6.0\ManagingANewspaper.deps.json
+C:\Users\ASUS\Desktop\NewsPaper\bin\Debug\net6.0\ManagingANewspaper.runtimeconfig.json
+C:\Users\ASUS\Desktop\NewsPaper\bin\Debug\net6.0\ManagingANewspaper.dll
+C:\Users\ASUS\Desktop\NewsPaper\bin\Debug\net6.0\ManagingANewspaper.pdb
+C:\Users\ASUS\Desktop\NewsPaper\bin\Debug\net6.0\CsvHelper.dll
+C:\Users\ASUS\Desktop\NewsPaper\bin\Debug\net6.0\Microsoft.OpenApi.dll
+C:\Users\ASUS\Desktop\NewsPaper\bin\Debug\net6.0\Swashbuckle.AspNetCore.Swagger.dll
+C:\Users\ASUS\Desktop\NewsPaper\bin\Debug\net6.0\Swashbuckle.AspNetCore.SwaggerGen.dll
+C:\Users\ASUS\Desktop\NewsPaper\bin\Debug\net6.0\Swashbuckle.AspNetCore.SwaggerUI.dll
+C:\Users\ASUS\Desktop\NewsPaper\obj\Debug\net6.0\ManagingANewspaper.csproj.AssemblyReference.cache
+C:\Users\ASUS\Desktop\NewsPaper\obj\Debug\net6.0\ManagingANewspaper.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\ASUS\Desktop\NewsPaper\obj\Debug\net6.0\ManagingANewspaper.AssemblyInfoInputs.cache
+C:\Users\ASUS\Desktop\NewsPaper\obj\Debug\net6.0\ManagingANewspaper.AssemblyInfo.cs
+C:\Users\ASUS\Desktop\NewsPaper\obj\Debug\net6.0\ManagingANewspaper.csproj.CoreCompileInputs.cache
+C:\Users\ASUS\Desktop\NewsPaper\obj\Debug\net6.0\ManagingANewspaper.MvcApplicationPartsAssemblyInfo.cs
+C:\Users\ASUS\Desktop\NewsPaper\obj\Debug\net6.0\ManagingANewspaper.MvcApplicationPartsAssemblyInfo.cache
+C:\Users\ASUS\Desktop\NewsPaper\obj\Debug\net6.0\staticwebassets\msbuild.ManagingANewspaper.Microsoft.AspNetCore.StaticWebAssets.props
+C:\Users\ASUS\Desktop\NewsPaper\obj\Debug\net6.0\staticwebassets\msbuild.build.ManagingANewspaper.props
+C:\Users\ASUS\Desktop\NewsPaper\obj\Debug\net6.0\staticwebassets\msbuild.buildMultiTargeting.ManagingANewspaper.props
+C:\Users\ASUS\Desktop\NewsPaper\obj\Debug\net6.0\staticwebassets\msbuild.buildTransitive.ManagingANewspaper.props
+C:\Users\ASUS\Desktop\NewsPaper\obj\Debug\net6.0\staticwebassets.pack.json
+C:\Users\ASUS\Desktop\NewsPaper\obj\Debug\net6.0\staticwebassets.build.json
+C:\Users\ASUS\Desktop\NewsPaper\obj\Debug\net6.0\staticwebassets.development.json
+C:\Users\ASUS\Desktop\NewsPaper\obj\Debug\net6.0\scopedcss\bundle\ManagingANewspaper.styles.css
+C:\Users\ASUS\Desktop\NewsPaper\obj\Debug\net6.0\ManagingANewspaper.csproj.CopyComplete
+C:\Users\ASUS\Desktop\NewsPaper\obj\Debug\net6.0\ManagingANewspaper.dll
+C:\Users\ASUS\Desktop\NewsPaper\obj\Debug\net6.0\refint\ManagingANewspaper.dll
+C:\Users\ASUS\Desktop\NewsPaper\obj\Debug\net6.0\ManagingANewspaper.pdb
+C:\Users\ASUS\Desktop\NewsPaper\obj\Debug\net6.0\ManagingANewspaper.genruntimeconfig.cache
+C:\Users\ASUS\Desktop\NewsPaper\obj\Debug\net6.0\ref\ManagingANewspaper.dll

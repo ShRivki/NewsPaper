@@ -1,9 +1,10 @@
 {
   "version": 2,
-  "dgSpecHash": "HbTax0WixV9eV3iBWoen+CxJl8Qt2R1I6B1wYsI0Fr4mZ6Pj/F0cNfKTLFzTa6P64qWapXi3fHCG9xOBZxbDtw==",
+  "dgSpecHash": "HeAa65OSiQd8WLeTdafotuLLvDCc7UDuIhBaWpCyiDUbV8ucahdHesYxN6+Lm24FGHLlrLG1vv1Jd5qeklW1Xw==",
   "success": true,
-  "projectFilePath": "C:\\Users\\ASUS\\Desktop\\Shop\\Shop.csproj",
+  "projectFilePath": "C:\\Users\\ASUS\\Desktop\\NewsPaper\\ManagingANewspaper.csproj",
   "expectedPackageFiles": [
+    "C:\\Users\\ASUS\\.nuget\\packages\\csvhelper\\30.0.1\\csvhelper.30.0.1.nupkg.sha512",
     "C:\\Users\\ASUS\\.nuget\\packages\\microsoft.extensions.apidescription.server\\6.0.5\\microsoft.extensions.apidescription.server.6.0.5.nupkg.sha512",
     "C:\\Users\\ASUS\\.nuget\\packages\\microsoft.openapi\\1.2.3\\microsoft.openapi.1.2.3.nupkg.sha512",
     "C:\\Users\\ASUS\\.nuget\\packages\\swashbuckle.aspnetcore\\6.5.0\\swashbuckle.aspnetcore.6.5.0.nupkg.sha512",
